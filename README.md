@@ -1,4 +1,4 @@
-### 乐淘在线商城
+# 乐淘在线商城
 ### 技术描述：
 该项目基于JavaWeb，前端使用Vue和vue-admin-template模板，后端SpringBoot，通过axios在前后端发送请求
 ### 登录模块：
